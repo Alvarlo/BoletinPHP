@@ -22,6 +22,7 @@ echo "<p>Cuántas vocales hay en la frase: Hola me llamo alvaro</p>";
 cuentaVocales("Hola me llamo alvaro");
 
 ?>
+<br>
 <a href="index.php" type="button">Volver al Inicio</a>
 </body>
 </html>

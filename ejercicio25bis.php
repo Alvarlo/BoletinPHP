@@ -36,6 +36,7 @@ print_r($array);
 echo "<p>Si tenemos una lotería de 15 bolas, saca 4 aleatorias y dime los números</p>";
 loteria(4,15);
 ?>
+<br>
 <a href="index.php" type="button">Volver al Inicio</a>
 </body>
 </html>

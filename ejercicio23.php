@@ -16,6 +16,7 @@ echo "<p>Calcula la media de los números 12, 53, 75, 23</p>";
 media (12,53,75,23);
 
 ?>
+<br>
 <a href="index.php" type="button">Volver al Inicio</a>
 </body>
 </html>

@@ -19,6 +19,7 @@ function cuadrado($caracter, $numero){
 echo "<p>Haz un cuadrado de 8x8 con el símbolo #</p>";
 cuadrado("#",8);
 ?>
+<br>
 <a href="index.php" type="button">Volver al Inicio</a>
 </body>
 </html>
