@@ -23,6 +23,7 @@
     loteria(4,20);
 
     ?>
+    <a href="index.php" type="button">Volver al Inicio</a>
 
 </body>
 

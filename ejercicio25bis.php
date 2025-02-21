@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio25</title>
+</head>
+<body>
 <?php
 function loteria($bolasaExtraer,$numBolas){
 
@@ -28,3 +36,6 @@ print_r($array);
 echo "<p>Si tenemos una lotería de 15 bolas, saca 4 aleatorias y dime los números</p>";
 loteria(4,15);
 ?>
+<a href="index.php" type="button">Volver al Inicio</a>
+</body>
+</html>
